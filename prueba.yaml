@@ -1,4 +1,4 @@
----
+---devnetsandboxiosxe.cisco.com
 - name: General Config
 
   hosts: routers
@@ -10,8 +10,7 @@
     ios_banner:
       banner: login
       text: |
-        Nicolas Cage is the
-        Tiger King
+        edna mmoda y otra
       state: present
 
   - name: Merge provided configuration with device configuration
