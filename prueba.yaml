@@ -1,5 +1,4 @@
---
-devnetsandboxiosxe.cisco.com
+---
 - name: General Config
 
   hosts: routers
